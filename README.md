@@ -20,3 +20,14 @@
 ### Social
  * [ActivityPub](https://www.w3.org/TR/activitypub/)
  * [OStatus](https://www.w3.org/community/ostatus/wiki/Main_Page)
+### Video streaming
+ * [RFC-7574 - Peer-to-Peer Streaming Peer Protocol](https://tools.ietf.org/html/rfc7574)
+ * [Livepeer](https://github.com/livepeer/wiki/blob/master/WHITEPAPER.md)
+### Data streaming
+ * [RFC-7019](https://datatracker.ietf.org/doc/rfc7019/) && [RFC-7046](https://datatracker.ietf.org/doc/rfc7046/) : Developed by the [Scalable Adaptive Multicast (SAM) Research Group](http://www.samrg.org/)
+### Financial
+ * [The Web Ledger Protocol](https://w3c.github.io/web-ledger/)
+ * [Blockchain exchange protocols list](https://github.com/evbots/dex-protocols)
+### Economic
+ * [Origin Protocol](https://github.com/OriginProtocol/docs) : [Identity](https://github.com/OriginProtocol/identity-playground) (ERC725), booking and payment protocols
+ * [Booking Token Unit](https://github.com/btuprotocol/btuprotocol-implementation-earth) - [EIP-808(Draft)](https://github.com/appyhour770/EIPs/blob/master/EIPS/eip-808.md): Booking protocols
