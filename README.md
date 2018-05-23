@@ -28,6 +28,8 @@
 ### Financial
  * [The Web Ledger Protocol](https://w3c.github.io/web-ledger/)
  * [Blockchain exchange protocols list](https://github.com/evbots/dex-protocols)
+### Supply chain
+ * [OriginTrail](https://github.com/OriginTrail/ot-node/wiki/Graph-structure-in-OriginTrail-Data-Layer---version-1.0)
 ### Economic
  * [Origin Protocol](https://github.com/OriginProtocol/docs) : [Identity](https://github.com/OriginProtocol/identity-playground) (ERC725), booking and payment protocols
  * [Booking Token Unit](https://github.com/btuprotocol/btuprotocol-implementation-earth) - [EIP-808(Draft)](https://github.com/appyhour770/EIPs/blob/master/EIPS/eip-808.md): Booking protocols
